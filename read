@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Clear View Window Repair - Get a Quote</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f4f7f8;
+      color: #333;
+    }
+    header {
+      background-color: #007bff;
+      color: white;
+      padding: 25px 40px;
+      text-align: center;
+      position: relative;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 3.5em;
+      letter-spacing: 1.2px;
+      font-weight: 700;
+    }
+    header p {
+      margin-top: 8px;
+      font-size: 1.2em;
+      font-weight: 300;
+    }
+    .call-contact {
+      position: absolute;
+      top: 25px;
+      right: 40px;
+      font-size: 1.2em;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-weight: 600;
+    }
+    .call-contact svg {
+      width: 20px;
+      height: 20px;
+      fill: white;
+    }
+    main {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    .intro-text {
+      text-align: center;
+      font-size: 1.25em;
+      color: #555;
+      margin-bottom: 35px;
+      font-weight: 500;
+      line-height: 1.4;
+    }
+    h2 {
+      color: #007bff;
+      text-align: center;
+      margin-bottom: 30px;
+      font-weight: 600;
+    }
+    .checklist {
+      max-width: 600px;
+      margin: 0 auto 40px auto;
+      padding-left: 0;
+      list-style: none;
+      font-size: 1.1em;
+      color: #444;
+    }
+    .checklist li {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      gap: 12px;
+    }
+    .checklist svg {
+      width: 20px;
+      height: 20px;
+      fill: #007bff;
+      flex-shrink: 0;
+    }
+    form {
+      background: white;
+      padding: 30px 40px;
+      border-radius: 8px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    }
+    label {
+      display: block;
+      margin-top: 15px;
+      font-weight: bold;
+      color: #555;
+    }
+    input[type="text"],
+    input[type="email"],
+    input[type="tel"],
+    input[type="number"],
+    input[type="file"] {
+      width: 100%;
+      padding: 10px 12px;
+      margin-top: 8px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      font-size: 1em;
+      box-sizing: border-box;
+    }
+    .checkbox-group {
+      margin-top: 8px;
+      display: flex;
+      gap: 20px;
+    }
+    .checkbox-group label {
+      font-weight: normal;
+      cursor: pointer;
+    }
+    input[type="checkbox"] {
+      margin-right: 8px;
+      cursor: pointer;
+    }
+    button {
+      margin-top: 30px;
+      background-color: #007bff;
+      color: white;
+      font-size: 1.1em;
+      padding: 14px;
+      border: none;
+      border-radius: 25px;
+      cursor: pointer;
+      width: 100%;
+      transition: background-color 0.3s ease;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
+    .footer {
+      text-align: center;
+      margin: 40px 0;
+      color: #777;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Trusted Window Repair & Glass Replacement</h1>
+  <p>Professional Window Repair Services in New York</p>
+  <a href="tel:+19296231354" class="call-contact" aria-label="Call (929) 623-1354">
+    <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      <path d="M6.62 10.79a15.053 15.053 0 006.59 6.59l2.2-2.2a1 1 0 011.11-.21 12.5 12.5 0 004 1.21 1 1 0 011 .99V20a1 1 0 01-1 1C7.83 21 3 16.17 3 10a1 1 0 011-1h3.5a1 1 0 01.99 1 12.5 12.5 0 001.13 4 1 1 0 01-.2 1.11l-2.2 2.2z"/>
+    </svg>
+    Call (929) 623-1354
+  </a>
+</header>
+
+<main>
+  <div class="intro-text">
+    Broken or foggy windows? Drafts and stuck sashes? We fix it fast with quality parts, clean workmanship, and honest pricing. Same-day service available.
+  </div>
+
+  <ul class="checklist" aria-label="Company benefits and features">
+    <li>
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <path d="M20.285 6.709l-11.39 11.388-5.34-5.34 1.415-1.415 3.925 3.924 9.976-9.976z"/>
+      </svg>
+      Licensed &amp; insured
+    </li>
+    <li>
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <path d="M20.285 6.709l-11.39 11.388-5.34-5.34 1.415-1.415 3.925 3.924 9.976-9.976z"/>
+      </svg>
+      Lifetime workmanship warranty
+    </li>
+    <li>
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <path d="M20.285 6.709l-11.39 11.388-5.34-5.34 1.415-1.415 3.925 3.924 9.976-9.976z"/>
+      </svg>
+      Upfront, no-surprise pricing
+    </li>
+    <li>
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <path d="M20.285 6.709l-11.39 11.388-5.34-5.34 1.415-1.415 3.925 3.924 9.976-9.976z"/>
+      </svg>
+      Energy-efficient glass options
+    </li>
+  </ul>
+
+  <h2>Get a Quote</h2>
+  <form action="#" method="post" enctype="multipart/form-data" novalidate>
+    <label for="name">Name</label>
+    <input type="text" name="name" id="name" placeholder="Your Full Name" required />
+
+    <label for="phone">Contact Number</label>
+    <input type="tel" name="phone" id="phone" placeholder="(123) 456-7890" required />
+
+    <label for="email">Email</label>
+    <input type="email" name="email" id="email" placeholder="you@example.com" required />
+
+    <label for="location">Location</label>
+    <input type="text" name="location" id="location" placeholder="Your Address or Neighborhood" required />
+
+    <label>Type of Property</label>
+    <div class="checkbox-group">
+      <label><input type="checkbox" name="property_type" value="Residential" /> Residential</label>
+      <label><input type="checkbox" name="property_type" value="Commercial" /> Commercial</label>
+    </div>
+
+    <label for="window_count">How many windows do you need repaired?</label>
+    <input type="number" name="window_count" id="window_count" min="1" placeholder="e.g., 3" required />
+
+    <label for="images">Upload pictures of the windows (optional)</label>
+    <input type="file" name="images" id="images" accept="image/*" multiple />
+
+    <button type="submit">Submit Quote Request</button>
+  </form>
+</main>
+
+<div class="footer">
+  &copy; 2025 Clear View Window Repair. All rights reserved.
+</div>
+
+</body>
+</html>
